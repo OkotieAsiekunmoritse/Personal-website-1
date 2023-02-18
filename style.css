@@ -1,0 +1,41 @@
+p  {
+    color: black;
+    font-size: 20px;
+}
+
+h1{
+    
+    font-style:oblique;
+}
+
+body,br,li{
+background-color: mistyrose;
+text-align:left;
+
+}
+
+h2{
+font-style: oblique;
+color:blue;
+font-size: 1cm;
+}
+
+p{
+font-style: italic;
+
+}
+
+
+nav{
+
+text-align: center;
+text-decoration:darkblue;
+font-size: larger;
+word-spacing: 100px;
+
+}
+
+
+a{
+    text-decoration: none;
+}
